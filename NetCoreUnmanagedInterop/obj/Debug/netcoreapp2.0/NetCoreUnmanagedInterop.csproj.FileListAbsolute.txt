@@ -1,0 +1,11 @@
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\bin\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.deps.json
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\bin\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.runtimeconfig.json
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\bin\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.runtimeconfig.dev.json
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\bin\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.dll
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\bin\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.pdb
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\obj\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.csproj.CoreCompileInputs.cache
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\obj\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.AssemblyInfoInputs.cache
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\obj\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.AssemblyInfo.cs
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\obj\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.dll
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\obj\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.pdb
+C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\NetCoreUnmanagedInterop\obj\Debug\netcoreapp2.0\NetCoreUnmanagedInterop.csprojResolveAssemblyReference.cache

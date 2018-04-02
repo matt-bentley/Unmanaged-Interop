@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Test1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Program.cpp
+  CppInterop.cpp
+  Generating Code...
+     Creating library C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\x64\Debug\CppInterop.lib and object C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\x64\Debug\CppInterop.exp
+  Test1.vcxproj -> C:\Repo\UnmanagedInterop\NetCoreUnmanagedInterop\x64\Debug\CppInterop.exe
